@@ -1,4 +1,4 @@
-# HVF-
+# HVF
 Hindsight Value Function for Variance Reduction in Stochastic Dynamic Environment
 
 require：
