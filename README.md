@@ -1,5 +1,5 @@
 # HVF
-Hindsight Value Function for Variance Reduction in Stochastic Dynamic Environment
+Hindsight Value Function for Variance Reduction in Stochastic Dynamic Environment (IJCAI 2021)
 
 require：
 pytorch 1.4.0  
